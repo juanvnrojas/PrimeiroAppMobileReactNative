@@ -34,7 +34,7 @@ export function App() {
         onPress={() => Alert.alert('Email: ' + email)}
       />
 
-        <br></br>
+        <Text></Text>
 
       <Button
         title="                 Cadastrar-se                 "
